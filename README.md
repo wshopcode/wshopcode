@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felix (wshopcode)</h1>
 <h3 align="center">A passionate frontend developer from Uganda</h3>
 
-<p align="left"> <a href="https://twitter.com/wshopcode" target="blank"><img src="https://img.shields.io/twitter/follow/wshopcode?logo=twitter&style=for-the-badge" alt="wshopcode" /></a> </p>
-
 - 📓 I’m currently learning **Python, USSD applications**
 
 - 📝 I’m currently working on **an application for the general case work departement in the ODPP**
