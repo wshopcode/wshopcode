@@ -1,3 +1,18 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/wakweika-felix-2a79b638/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://wa.me/+256773008423">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/wshopcode">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 <h1 align="center">Hi 👋, I'm Felix (wshopcode). Welcome to my profile!</h1>
 <h3 align="left">About me</h3>
 
