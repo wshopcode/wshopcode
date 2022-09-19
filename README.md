@@ -22,6 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wshopcode&show_icons=true&locale=en&layout=compact" alt="wshopcode" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wshopcode&show_icons=true&locale=en" alt="wshopcode" /></p>
 
 <h3 align="left">Connect with me:</h3>
