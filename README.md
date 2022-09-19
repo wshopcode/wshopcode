@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felix (wshopcode)</h1>
 <h3 align="center">A passionate frontend developer from Uganda</h3>
 
+
 - 📓 I’m currently learning **Python, USSD applications**
 
 - 📝 I’m currently working on **an application for the general case work departement in the ODPP**
