@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felix (wshopcode)</h1>
-<h3 align="center">A passionate frontend developer from Uganda</h3>
+<h3 align="left">A passionate frontend developer from Uganda</h3>
 
 
 - 📓 I’m currently learning **Python, USSD applications**
