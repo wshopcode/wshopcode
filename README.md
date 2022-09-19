@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **wshop256@gmail.com, info@wshopcode.com**
 
-- 💕 Interests: Listening to music, cycling, running, graphic and photography [hopug.wordpress.com/](hopug.wordpress.com/)
+- 💕 Interests: Listening to music, cycling, running, graphic and photography [hopug.wordpress.com/](wshopug.wordpress.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
