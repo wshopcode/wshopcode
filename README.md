@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **wshop256@gmail.com, info@wshopcode.com**
 
-- 💕 Interests: Listening to music, cycling, running, graphic and photography [wshopug.wordpress.com/](wshopug.wordpress.com/)
+- 💕 Interests: Listening to music, cycling, running, graphic and photography [https://wshopug.wordpress.com//](https://wshopug.wordpress.com/)
 
 
 <h3 align="left">Languages and Tools:</h3>
