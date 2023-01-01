@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [https://wshopcode.com/](https://wshopcode.com/)
 
-- 💬 Ask me about **Javascript, HTML, CSS, MySql, Php**
+- 💬 Ask me about **Python,Javascript, HTML, CSS, MySql, Php**
 
 - 📫 How to reach me **wshop256@gmail.com, info@wshopcode.com**
 
